@@ -12,4 +12,23 @@
     flex-grow: 1;
     background-color: #fff;
     border: 1px solid #e4dede;
+    padding: 20px;
+}
+
+#file span {
+  display:inline-block;
+  padding: 2px 4px;
+  /* cursor: pointer !important; */
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
 }
